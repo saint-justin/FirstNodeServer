@@ -1,0 +1,23 @@
+{
+  "name": "first-node-server",
+  "version": "1.0.0",
+  "description": "First Node.js server",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saint-justin/FirstNodeServer.git"
+  },
+  "author": "Justin Vaughn",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/saint-justin/FirstNodeServer/issues"
+  },
+  "homepage": "https://github.com/saint-justin/FirstNodeServer#readme",
+  "dependencies": {
+    "underscore": "^1.10.2"
+  }
+}
